@@ -1,4 +1,4 @@
-# YoloV5-Custom-Fruits-Detection
+# Yolo-Object-Detection
 Domain: Computer Vision | Deep Learning
 
 <h5 align = "left">YoloV3 Pretrained Model Predictions</h5>
